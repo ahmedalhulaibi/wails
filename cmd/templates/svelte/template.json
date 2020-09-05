@@ -1,0 +1,12 @@
+{
+  "name": "Svelte JS",
+  "shortdescription": "A Svelte JS template",
+  "description": "A basic Svelte JS template generated from sveltejs/template",
+  "author": "hulaibi<hulaibi@hey.com>",
+  "created": "2020-09-05",
+  "frontenddir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "serve": "npm run dev",
+  "bridge": "src"
+}
